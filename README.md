@@ -9,3 +9,6 @@ This repository contains data anaysis projects ranging from
     - Timeline
     - Pivot Charts
     - Bar Charts
+
+- Bike Sales Analysis
+  The Bike Sales Dashboard is a responsive dashboard that displays the summary of information about sales of bikes in Europe, North America and Pacific.
